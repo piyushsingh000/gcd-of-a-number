@@ -1,0 +1,1 @@
+# gcd-of-a-number
